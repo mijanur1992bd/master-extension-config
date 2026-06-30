@@ -5,8 +5,8 @@
 
   "users": [
     {
-      "name": "Customer-1",
-      "deviceId": "A12B34C56"
+      "name": "Mijanur",
+      "deviceId": "d1968cdd-6e4f-435f-82eb-5eda3f1fbeaf"
     },
     {
       "name": "Customer-2",
