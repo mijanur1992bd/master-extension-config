@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "version": "1.0",
+  "message": "Welcome To Master Extension",
+
+  "deviceId": "",
+
+  "modules": {
+
+    "hvcsolver": true,
+
+    "kbpos": true,
+
+    "recaptcha": true,
+
+    "antiget": true,
+
+    "sterrex": true
+
+  }
+
+}
