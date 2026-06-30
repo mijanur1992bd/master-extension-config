@@ -6,7 +6,7 @@
   "users": [
     {
       "name": "Mijanur",
-      "deviceId": "d1968cdd-6e4f-435f-82eb-5eda3f1fbeaf"
+      "deviceId": "3060e76e-a406-4ad5-bbd4-da4e09e7b216"
     },
     {
       "name": "Customer-2",
